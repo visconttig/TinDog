@@ -38,6 +38,11 @@ h2 {
   padding-bottom: 3%;
 }
 
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
 .carousel-item {
   padding: 7% 15%;
 }
@@ -102,6 +107,10 @@ h2 {
 .press-images {
   width: 15%;
   margin: 20px 20px 20px 50px;
+}
+
+.pricing-column {
+  padding: 3% 2%;
 }
 
 .testimonial-image {
